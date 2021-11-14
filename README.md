@@ -35,3 +35,14 @@
   <img src="https://static.electronicsweekly.com/wp-content/uploads/2019/04/16162018/SPike-Prime-hub-261x300.png" height=200px align="center">
   <img src="https://cdn.kiobi.com/images/brickwatch/sets/45500.png" height=200px align="center">
 </div>
+
+<h2>About the programming language</h2>
+<p>Lego Mindstorms EV3 uses technology based on LabView as its native language, although it can be programmed in C, C++, C# and MicroPython.
+  
+Spike Prime has a blocky low code tool, but it also natively supports Python</p>
+
+<div>
+  <img src="https://www.researchgate.net/profile/Adrian-Ioan-Lita/publication/330595845/figure/fig1/AS:768598020722690@1560259456952/The-diagram-of-the-LabVIEW-application-used-for-controlling-the-automated-testing-system.ppm" height=170px align="center">
+  <img src="https://afarago.github.io/EV3TreeVisualizerPages/img/f11.png" height=170px align="center">
+  <img src="https://www.pinclipart.com/picdir/big/269-2691398_python-logo-clipart-transparent-background-png-download.png" height=150px align="center">
+</div>
