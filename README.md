@@ -13,7 +13,7 @@
 
   <p>The FIRST LEGO League Challenge Robotics Tournament challenges students from 9 to 16 years old to seek solutions for the everyday life of modern society. The themes are different each season – in 2020, for example, they were challenged to rethink spaces for exercises, competitions and games.
 
-  Young people, led by two adults, need to work in harmony based on values ​​such as respect, mutual gain and friendly competition. Following specific rules specifically for each season, they build patterns based on LEGO Mindstorm technology, which must be programmed to fulfill a series of missions.</p>
+  Young people, led by two adults, need to work in harmony based on values such as respect, mutual gain and friendly competition. Following specific rules specifically for each season, they build patterns based on LEGO Mindstorm technology, which must be programmed to fulfill a series of missions.</p>
 </div>
 
 <div id="OBR">
@@ -27,4 +27,11 @@
 
   The Practical Modality takes place through Regional and State events/competitions that classify the student teams for a National final, the students are under the guidance of their professors and scientists. The events organized by OBR and are free and open to the public.
   See more information in the menu: Practical Mode.</p>
+</div>
+
+<h2>About the controller</h2>
+<p>The controller used for processing and executing the tasks is made by Lego itself, the two models used are the EV3 and the Spike Prime</p>
+<div>
+  <img src="https://static.electronicsweekly.com/wp-content/uploads/2019/04/16162018/SPike-Prime-hub-261x300.png" height=200px align="center">
+  <img src="https://cdn.kiobi.com/images/brickwatch/sets/45500.png" height=200px align="center">
 </div>
