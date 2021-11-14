@@ -25,8 +25,7 @@
 
   The OBR is aimed at all students from any public or private elementary, secondary or technical school throughout the country, and is a public, free and non-profit initiative
 
-  The Practical Modality takes place through Regional and State events/competitions that classify the student teams for a National final, the students are under the guidance of their professors and scientists. The events organized by OBR and are free and open to the public.
-  See more information in the menu: Practical Mode.</p>
+  The Practical Modality takes place through Regional and State events/competitions that classify the student teams for a National final, the students are under the guidance of their professors and scientists. The events organized by OBR and are free and open to the public.</p>
 </div>
 
 <h2>About the controller</h2>
