@@ -41,7 +41,7 @@
 Spike Prime has a blocky low code tool, but it also natively supports Python</p>
 
 <div>
-  <img src="https://www.researchgate.net/profile/Adrian-Ioan-Lita/publication/330595845/figure/fig1/AS:768598020722690@1560259456952/The-diagram-of-the-LabVIEW-application-used-for-controlling-the-automated-testing-system.ppm" height=160px align="center">
+  <img src="https://user-images.githubusercontent.com/72043658/176789903-bcd525c4-064b-4302-9f6f-40f3fa49d292.jpg" height=160px align="center">
   <img src="https://afarago.github.io/EV3TreeVisualizerPages/img/f11.png" height=160px align="center">
   <img src="https://www.pinclipart.com/picdir/big/269-2691398_python-logo-clipart-transparent-background-png-download.png" height=120px align="center">
 </div>
